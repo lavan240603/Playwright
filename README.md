@@ -1,4 +1,4 @@
-# 🚀 Playwright + JavaScript Learning Hub
+# Playwright + JavaScript Learning Hub
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript" />
@@ -8,25 +8,23 @@
 
 ---
 
-## 📌 About This Project
+## About This Project
 
-This repository documents my journey of learning **JavaScript fundamentals** and **Playwright automation testing** through hands-on practice.
-
-It is structured in a **chapter-wise format** to build concepts step by step and apply them in real scenarios.
+This repository documents my journey of learning **JavaScript fundamentals** and **Playwright automation testing** through hands-on practice. It is structured chapter-wise to build concepts step by step.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
-- ✅ Master JavaScript fundamentals  
-- ✅ Understand naming conventions & clean coding  
-- ✅ Learn identifiers and literals  
-- ✅ Write well-documented code  
-- 🔄 Build Playwright automation skills  
+- Master JavaScript fundamentals
+- Understand naming conventions & clean coding
+- Learn identifiers, literals, operators, and control flow
+- Write well-documented code
+- Build Playwright automation skills
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **JavaScript**
 - **Node.js**
@@ -34,18 +32,25 @@ It is structured in a **chapter-wise format** to build concepts step by step and
 
 ---
 
-## 📈 Progress Tracker
+## Progress Tracker
 
-| Chapter | Status |
-|--------|--------|
-| Chapter 01 - Basics | ✅ Completed |
-| Chapter 02 - JavaScript Concepts | ✅ Completed |
-| Chapter 03 - Identifiers & Literals | 🔄 In Progress |
+| Chapter | Topic | Status |
+|---------|-------|--------|
+| Chapter 01 | Basics | Completed |
+| Chapter 02 | JavaScript Concepts | Completed |
+| Chapter 03 | Identifiers | Completed |
+| Chapter 04 | Variables, Functions, Hoisting | Completed |
+| Chapter 05 | Literals | Completed |
+| Chapter 06 | Operators | Completed |
+| Chapter 07 | If/Else Conditions | Completed |
+| Chapter 08 | Switch Statement | Completed |
+| Chapter 09 | User Input | Completed |
+| Chapter 10 | Loops | Completed |
 
 ---
 
-👩‍💻 Author
+## Author
 
-Lavanya V
+**Lavanya V**
 
 GitHub: https://github.com/lavan240603
