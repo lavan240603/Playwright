@@ -9,7 +9,7 @@
 ---
 
 ## About This Project
-
+ 
 This repository documents my journey of learning **JavaScript fundamentals** and **Playwright automation testing** through hands-on practice. It is structured chapter-wise to build concepts step by step.
 
 ---
